@@ -8,4 +8,4 @@ Custom static website for Stanrod Welding & Plasma LLC.
 - Static assets directory is configured in `wrangler.jsonc` as `./public`
 
 ## Current build
-Version 0.1: responsive homepage, FabChallenge page, fabrication page, gallery shell, and contact shell.
+Version 0.2: softer, more human tone; sentence-case typography; contractor/homeowner problem-solving focus; FabChallenge repositioned as learn + practice + prove.
