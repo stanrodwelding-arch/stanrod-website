@@ -30,3 +30,13 @@ Curated real-photo build:
 - corrects the service-bed photo from a generic heavy-equipment repair description
 - uses Photo 23 as a shop-transition image without claiming the uncertain belly-dump detail
 - improves gallery layout for sections with six or more images
+
+
+## Version 0.7
+- restores the owner's wording throughout project stories and gallery captions, limiting edits to grammar and readability
+- removes the two stat-card sections that felt too "marketing" and replaces the homepage version with photo-backed real-job stories
+- removes the duplicate wildlife photo on the About page
+- changes the main Stanrod accent/CTA color to welding blue
+- keeps FabChallenge orange as its own visual identity, including its homepage callout
+- replaces the text-only header brand with the official Stanrod Welding & Plasma logo currently used on stanrod.com
+- adds the public phone number and email already listed on stanrod.com to the Contact page
