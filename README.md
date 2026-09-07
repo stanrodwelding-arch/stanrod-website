@@ -14,3 +14,10 @@ Curated real-photo build:
 - rebuilds Gallery into intentional categories instead of a photo dump
 - adds human/family/shop personality without changing the calm, helpful tone
 - uses optimized WebP copies of selected iPhone photos
+
+## Version 0.5
+- adds six more real project photos featuring the fabricator with completed work
+- adds installed/recognition/commissioned work to the Gallery
+- adds a permanent-installed-project feature to Fabrication
+- uses intentionally conservative temporary descriptions where project history has not yet been confirmed
+- includes a separate photo-description review file for the owner to correct project details
