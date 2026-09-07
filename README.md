@@ -1,42 +1,20 @@
-# Stanrod Website
+# Stanrod Website v0.8
 
-Custom static website for Stanrod Welding & Plasma LLC.
+This revision intentionally turns the visual volume down and spreads project stories across the site.
 
-## Cloudflare deployment
-- Build command: leave blank
-- Deploy command: `npx wrangler deploy`
-- Static assets directory: `./public`
+## v0.8 changes
+- Reduced headline size/weight and vertical spacing across desktop and mobile.
+- Increased the small blue kicker text and darkened the Stanrod blue.
+- Removed the repeated Wayfinding / logging-machine / College of Law stories from the homepage and Fabrication page. Those stories now live in the Gallery instead of being repeated everywhere.
+- Homepage examples now rotate through employee-recognition pieces, trailer repair, and licensed Alabama signs.
+- Fabrication examples now use ATV bridge brackets, a custom property sign, service-bed fit-up, Downtown Laramie, water-treatment platforms, and mobile support for another fabricator.
+- No project photo is used more than twice across the site.
+- Stanrod calls-to-action stay welding blue; FabChallenge stays orange.
+- Texting 307-216-4163 is now the preferred contact method, with calling and email still available.
+- Etsy buttons point to https://stanrod.etsy.com.
+- Facebook CTA space is built and styled, but intentionally disabled until the real Stanrod Facebook page URL is supplied. Search results did not give a reliable direct URL, so this package does not guess.
 
-## Version 0.4
-Curated real-photo build:
-- adds an About page
-- reorganizes Fabrication around contractors/commercial, homeowners/custom work, and repair/mobile work
-- rebuilds Gallery into intentional categories instead of a photo dump
-- adds human/family/shop personality without changing the calm, helpful tone
-- uses optimized WebP copies of selected iPhone photos
+## Deployment
+Upload the contents of this package to the GitHub repository and commit to `main`. Cloudflare should redeploy automatically.
 
-## Version 0.5
-- adds six more real project photos featuring the fabricator with completed work
-- adds installed/recognition/commissioned work to the Gallery
-- adds a permanent-installed-project feature to Fabrication
-- uses intentionally conservative temporary descriptions where project history has not yet been confirmed
-- includes a separate photo-description review file for the owner to correct project details
-
-
-## Version 0.6
-- replaces guessed photo captions with owner-supplied project history
-- adds real project metrics and stories throughout Home, Fabrication, About, Gallery, and FabChallenge
-- corrects the shop-cat reference to Bagels
-- corrects the service-bed photo from a generic heavy-equipment repair description
-- uses Photo 23 as a shop-transition image without claiming the uncertain belly-dump detail
-- improves gallery layout for sections with six or more images
-
-
-## Version 0.7
-- restores the owner's wording throughout project stories and gallery captions, limiting edits to grammar and readability
-- removes the two stat-card sections that felt too "marketing" and replaces the homepage version with photo-backed real-job stories
-- removes the duplicate wildlife photo on the About page
-- changes the main Stanrod accent/CTA color to welding blue
-- keeps FabChallenge orange as its own visual identity, including its homepage callout
-- replaces the text-only header brand with the official Stanrod Welding & Plasma logo currently used on stanrod.com
-- adds the public phone number and email already listed on stanrod.com to the Contact page
+Suggested commit message: `Stanrod website v0.8 - calmer layout and story rotation`
