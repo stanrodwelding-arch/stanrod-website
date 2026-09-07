@@ -21,3 +21,13 @@ Suggested commit message: `Stanrod website v0.9 - calmer layout and story rotati
 
 - Added five additional grouped project stories and all 32 supplied project photos: pergola, wind-turbine field work, fire-truck art build, ranch gate, and oversized-load roadside repair.
 - Kept multiple photos from the same job together rather than repeating the same story as separate gallery cards.
+
+## v1.0
+Megan review pass:
+- Added an Adam Stanfill owner bio to the About page.
+- Tightened vertical spacing between Home page sections.
+- Reworked informational blocks so they read as editorial content instead of buttons/cards.
+- Increased the Stanrod logo size in the header and footer.
+- Standardized About page image cropping and top alignment with adjacent copy.
+- Reframed key fabrication descriptions around customer problems/benefits, including the equipment platforms.
+- Reworked University of Alabama copy to emphasize Stanrod's official licensing.
