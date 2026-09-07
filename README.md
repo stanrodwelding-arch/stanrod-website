@@ -21,3 +21,12 @@ Curated real-photo build:
 - adds a permanent-installed-project feature to Fabrication
 - uses intentionally conservative temporary descriptions where project history has not yet been confirmed
 - includes a separate photo-description review file for the owner to correct project details
+
+
+## Version 0.6
+- replaces guessed photo captions with owner-supplied project history
+- adds real project metrics and stories throughout Home, Fabrication, About, Gallery, and FabChallenge
+- corrects the shop-cat reference to Bagels
+- corrects the service-bed photo from a generic heavy-equipment repair description
+- uses Photo 23 as a shop-transition image without claiming the uncertain belly-dump detail
+- improves gallery layout for sections with six or more images
